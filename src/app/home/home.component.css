@@ -20,8 +20,14 @@ img.profile {
 .rechts {
   width: 75%;
   float: left;
-  text-align: right;
   background-color: #f8e800;
+}
+
+.rechts p,
+h1,
+h2 {
+  text-align: right;
+  margin-right: 10px;
 }
 
 .clearfix {
